@@ -7,9 +7,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Şu anda yazılım geliştirme alanında öğreniyor ve gelişiyorum
-- 💬 Teknoloji ile ilgili her konuda bana sorabilirsiniz, yardım etmekten mutluluk duyarım
-- 📫 Bana nasıl ulaşabilirsiniz: GitHub issues üzerinden
+- 🌱 I'm currently learning and growing in the software development field
+- 💬 Ask me about anything tech related, I'm happy to help
+- 📫 How to reach me: Through my GitHub issues
 
 ### 🌱 Currently Learning:
 <p align="center">
@@ -26,25 +26,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhan-ozi&show_icons=true&theme=radical" alt="oguzhan-ozi's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhan-ozi&theme=radical" alt="oguzhan-ozi's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhan-ozi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oguzhan-ozi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-<p align="center">⭐️ From [oguzhan-ozi](https://github.com/oguzhan-ozi)</p>
