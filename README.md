@@ -9,7 +9,7 @@
 
 - 🌱 I'm currently learning and growing in the software development field
 - 💬 Ask me about anything tech related, I'm happy to help
-- 📫 How to reach me: Through my GitHub issues
+- 📫 How to reach me: oguzhan.arsln3461@protonmail.com
 
 ### 🌱 Currently Learning:
 <p align="center">
